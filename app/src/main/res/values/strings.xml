@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">星星浏览器</string>
+    <string name="about_us">敬请期待！</string>
+    <string name="action_settings">设置</string>
+    <string name="exit_app">再按一次退出程序</string>
+</resources>
